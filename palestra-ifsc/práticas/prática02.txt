@@ -1,0 +1,1 @@
+será utilizada a ferramenta x() para quebrar a senha de um wifi atraves de ataques de dicionario e WPS.

@@ -1,0 +1,2 @@
+sera realizado um ataque de dicionario (utilizando a ferramenta Burp Suite do kali linux) a um clone 
+do facebook desenvolvido pela equipe(https://github.com/losthunter52/facebook-clone-django)

@@ -1,0 +1,2 @@
+será rodado desde o inicio da palestra um Keylogger na maquina e ao final mostraremos o que foi capturado
+pelo keylogger e rodaremos um Ransomware.

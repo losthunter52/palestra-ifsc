@@ -1,0 +1,20 @@
+contas do google (obs.: sem aspas)
+
+Atacante:
+
+Login:"googlw.noreply@gmail.com"
+Senha:"@ SenhaForte"
+
+Vitima:
+
+Login:"maherdaoud2002@gmail.com"
+Senha:"@ SenhaForte"
+
+
+
+Será utilizado a ferramenta zPhisher(https://github.com/htr-tech/zphisher) para mandar um email de Phishing
+para o email da vitima. 
+
+
+cod. fonte do email a ser enviado: 
+
